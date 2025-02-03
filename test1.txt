@@ -1,3 +1,4 @@
 hello world 
 second updated created
-i am fine
+<<<<<<< Updated upstream
+hi
